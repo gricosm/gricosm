@@ -12,18 +12,15 @@
 
 <br>
 
-<p align="left">🔭 I’m currently working on:</p>
-<p>Finishing my Vet-Clinic project with React.js and Redux. <a href="https://github.com/gricosm/react-vet-clinic-project">Check it out here!</a></p>
+<p align="left">🔭 I’m currently working on: Finishing my Vet-Clinic project with React.js and Redux. <a href="https://github.com/gricosm/react-vet-clinic-project">Check it out here!</a></p>
 
 <br>
 
-<p align="left">😄 Pronouns:</p>
-<p>He / Him</p>
+<p align="left">😄 Pronouns: He / Him</p>
 
 <br>
 
-<p align="left">🌱 I’m currently learning:</p>
-<p>Some good PHP and Laravel.</p>
+<p align="left">🌱 I’m currently learning: Some good PHP and Laravel.</p>
 
 <br>
 
