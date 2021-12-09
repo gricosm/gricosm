@@ -7,21 +7,13 @@
 -->
 
 
-<h1 align="center">👋👋👋 Hi !!! I'm Guille</h1>
+<h1 align="center">👋👋👋 Hi beautiful people of the internet!!! I'm Guille</h1>
 <h3 align="center">A passionate Full-Stack Developer Junior from Spain</h3>
 
 <br>
-
-<p align="left">🔭 I’m currently working on: Finishing my Vet-Clinic project with React.js and Redux. <a href="https://github.com/gricosm/react-vet-clinic-project">Check it out here!</a></p>
-
-<br>
-
 <p align="left">😄 Pronouns: He / Him</p>
-
-<br>
-
+<p align="left">🔭 I’m currently working on: Finishing my Vet-Clinic project with React.js and Redux. <a href="https://github.com/gricosm/react-vet-clinic-project">Check it out here!</a></p>
 <p align="left">🌱 I’m currently learning: Some good PHP and Laravel.</p>
-
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -31,12 +23,9 @@
 
 <h3 align="center">📫 How to reach me:</h3>
 
-<p align="center">
-
 <a href="https://twitter.com/gricosm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gricosm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gricosm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gricosm" height="30" width="40" /></a>
-</p>
 
 <br>
 
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=gricosm&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=gricosm&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></div>
