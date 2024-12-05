@@ -10,4 +10,4 @@
 
 ### Check this:
 
-<a href="https://twitter.com/gricosm">Twitter</a> || <a href="https://www.linkedin.com/in/gricosm/">LinkedIn</a>
+<a href="https://bsky.app/profile/guillerikko.bsky.social">BlueSky</a> || <a href="https://twitter.com/gricosm">Twitter</a> || <a href="https://www.linkedin.com/in/gricosm/">LinkedIn</a>
